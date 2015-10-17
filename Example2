@@ -1,0 +1,40 @@
+
+Program2  :
+------------
+
+Question:Apply  Wilmix  designs  and   add  a   Pargraph  containing   small  piece  of  java code.
+---------
+
+wilmixdesign.Cwp
+----------------
+<@CWP
+
+@C
+
+<%
+   class  wilmixdesign  
+
+{
+
+public  void  CWP-Main()
+{
+//apply wilmix  designs
+HTML->html("/CWP/server/src/BIN/DESIGN/wilmixdesign.html");
+~ i $
+println(i->("<P>class Outer {private int privInt = 10;public void createInnerClass() {Inner inClass = <NEW> Inner();inClass.access();}"+"<br>"));
+println(i->("<br><marquee>kindly  fill up  the  remaining  java code :? </marquee>"+"\r\n </br>"));
+println(i->("</p>"+"\r\n"));
+println(i->("</html>"+"\r\n"));
+
+}
+}
+%>
+
+/>
+
+
+Output:
+
+we  can  see    the   Outputs    with    decorative   design  
+
+with   a  piece  of  JAVA code
