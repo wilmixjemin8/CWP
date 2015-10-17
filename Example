@@ -1,0 +1,57 @@
+
+
+Question:
+---------
+
+Use   Loosely  coupling   technique   to  store   and   print
+
+the   values   of  integers,string ,double ,  and  long  integers.
+
+example.Cwp
+-----------
+
+<@CWP
+
+@C
+
+<%
+   class  example  
+
+{
+
+public  void  CWP-Main()
+{
+
+// declare   i  as  a  loosley  coupled  variable   to  store   values.
+~ i $  
+
+
+println(i->(100));
+println(i->("wilmix is   going"));
+println(i->(12.5));
+println(i->(12333333));
+
+
+}
+
+
+
+
+}
+
+%>
+
+
+/>
+
+
+Note:  Here   once  you   store   a  value  using   CWP  Pointers
+------
+and  print  it   suing   println   you   will   get    the   below   output.
+
+Output:
+------
+
+*CDollar: 100wilmixisgoing12.512333333
+
+
