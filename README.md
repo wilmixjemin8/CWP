@@ -2,7 +2,7 @@
 CWP  is   used    in  Advanced   WebDesign   and  is   invented  by wilmix   jemin  j
 
 
-CWP  Technology is   meant  for  Critical  Webpages  and  it  is   invented   by wilmix    jemin  j  in  Jdollar  technology
+CWP  Technology is   meant  for  Critical  Webpages  and  it  is   invented   by wilmix    jemin  j  in  JAS  technology
 at  Oct  2015.
 
 CWP   has  MVC   pattern   but  used   in  webdesign   with  cloud  and  mobile  cloud  computing.
